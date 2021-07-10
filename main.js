@@ -122,10 +122,3 @@ function right()
 		check()
 	  }
 	}
-
-
-	function check(){
-		if(car_x=415)+(car_y=85){
-			window.alert("GOOD JOB!")	
-			}
-	}
